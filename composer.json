@@ -1,0 +1,8 @@
+{
+    "name": "willpsng/laravel-rid",
+    "description": "A laravel implementation for the Regressive Imagery Dictionary",
+    "keywords": ["rid", "regressive", "imagery", "disctionary", "larvel", "willpsng"],
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
