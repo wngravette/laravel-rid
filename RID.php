@@ -1,16 +1,14 @@
-<?
-
-namespace Willpsng\RID;
+<?php namespace Willpsng\RID;
 
 use DOMDocument;
-use DOMXpath;
+use DOMXPath;
 
 class RID {
 
     public $tree;
 
     function __construct() {
-        $this->load_dictionary(file_get_contents(app_path().'/Other/RID/RID.CAT'));
+        $this->load_dictionary(file_get_contents('./RID/RID.CAT'));
     }
 
     public function alphabetize(&$tree, &$node, $letter) {
@@ -60,7 +58,7 @@ class RID {
                     }
 
                     else {
-                        $node = $dictionary->createElement($word);
+                        $node = $dictionary->createElement("_".$word);
                         $tertiary = $secondary->appendChild($node);
                         $tertiary->setAttribute('level', 'tertiary');
                     }
@@ -148,7 +146,11 @@ class RID {
             $data['rows'][] = array($node->nodeName, $node->getAttribute('count'));
         }
 
-        return $data;
+        if (isset($data)) {
+            return $data;
+        } else {
+            return null;
+        }
 
     }
 
@@ -175,9 +177,6 @@ class RID {
                 }
             echo "],";
         }
-
         echo "]);";
     }
-
-
 }

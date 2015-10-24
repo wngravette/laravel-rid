@@ -457,7 +457,7 @@ PRIMARY
 			WHOR* (1)
 			WOMB* (1)
 			SENSATION (1)
-	SENSATION
+	Sensation
 		TOUCH
 			BRUSH* (1)
 			COARS* (1)
@@ -887,7 +887,7 @@ PRIMARY
 			VELVET* (1)
 			VELVETY* (1)
 			WHISPER* (1)
-	DEFENSIVE SYMBOLIZATION
+	Defensive Symbolisation
 		PASSIVITY
 			STAGNANT (1)
 			APATHETIC* (1)
@@ -1168,7 +1168,7 @@ PRIMARY
 			RUIN* (1)
 			UNRU* (1)
 			WILD* (1)
-	REGRESSIVE COGNITION
+	Regressive Cognition
 		UNKNOWN
 			BIZZAR* (1)
 			BODILES* (1)
@@ -1552,7 +1552,7 @@ PRIMARY
 			WIDE* (1)
 			WIDTH* (1)
 			WITHIN* (1)
-	ICARIAN IMAGERY
+	Icarian Imagery
 		ASCENT
 			ALOFT* (1)
 			ARIS* (1)
@@ -1862,7 +1862,7 @@ PRIMARY
 			WATERFALL* (1)
 			WET* (1)
 SECONDARY
-	ABSTRACTION
+	Abstraction
 		DIVERSE (1)
 		DIVERSIFICATION (1)
 		DIVERSIFIED (1)
@@ -2008,7 +2008,7 @@ SECONDARY
 		WEIGHING* (1)
 		WEIGHS (1)
 		WHY (1)
-	SOCIAL BEHAVIOR
+	Social Behaviour
 		GUEST* (1)
 		QUOTA (1)
 		QUOTA-* (1)
@@ -2161,7 +2161,7 @@ SECONDARY
 		TREAT* (1)
 		UTTER* (1)
 		VISIT* (1)
-	INSTRUMENTAL BEHAVIOR
+	Instrumental Behaviour
 		AVAIL (1)
 		CAVEAT* (1)
 		DIVESTMENT* (1)
@@ -2321,7 +2321,7 @@ SECONDARY
 		WINS (1)
 		WON (1)
 		WORK* (1)
-	RESTRAINT
+	Restraint
 		COMPTROLLER* (1)
 		DISCIPLINE (1)
 		MAGIST* (1)
@@ -2422,7 +2422,7 @@ SECONDARY
 		TABOO* (1)
 		TAX* (1)
 		THWART* (1)
-	ORDER
+	Order
 		ORDINAL (1)
 		ACCURAT* (1)
 		ARRANG* (1)
@@ -2464,7 +2464,7 @@ SECONDARY
 		SYSTEM* (1)
 		UNIFORM* (1)
 		UNIVERSAL* (1)
-	TEMPORAL REFERENCES
+	Reference to Time
 		FULL-TIME (1)
 		LONG-TERM (1)
 		LONGEVIT* (1)
@@ -2537,7 +2537,7 @@ SECONDARY
 		WHIL* (1)
 		YEAR* (1)
 		YESTERDAY* (1)
-	MORAL IMPERATIVE
+	Moral Impreative
 		LEGITIMACY (1)
 		RESPECT (1)
 		BIRTHRIGHT* (1)
@@ -2584,7 +2584,7 @@ SECONDARY
 		UPRIGHT* (1)
 		VIRTU* (1)
 EMOTIONS
-	POSITIVE AFFECT
+	Positiveness
 		AMUS* (1)
 		AMUSEMENT* (1)
 		BLITH* (1)
@@ -2655,7 +2655,7 @@ EMOTIONS
 		THRILL* (1)
 		VIVACIOU* (1)
 		VIVACITY* (1)
-	ANXIETY
+	Anxiety
 		TREMOR (1)
 		AFRAID* (1)
 		AGHAST* (1)
@@ -2705,7 +2705,7 @@ EMOTIONS
 		UNEASY* (1)
 		WORRI* (1)
 		WORRY* (1)
-	SADNESS
+	Sadness
 		AGGRIEVED (1)
 		ALAS (1)
 		DEJECT* (1)
@@ -2781,7 +2781,7 @@ EMOTIONS
 		WHIN* (1)
 		WOE (1)
 		WOES (1)
-	AFFECTION
+	Affection
 		AFFECT* (1)
 		AFFECTIONAT* (1)
 		AMOROU* (1)
@@ -2847,7 +2847,7 @@ EMOTIONS
 		WOOED* (1)
 		WOOING* (1)
 		WOOS (1)
-	AGGRESSION
+	Aggression
 		ABHOR* (1)
 		ABUS* (1)
 		ABUSIV* (1)
@@ -3070,7 +3070,7 @@ EMOTIONS
 		WRATH* (1)
 		FOOTBALL* (1)
 		WRECK* (1)
-	EXPRESSIVE BEHAVIOR
+	Expressiveness
 		ART (1)
 		ARTS* (1)
 		BARD* (1)
@@ -3123,7 +3123,7 @@ EMOTIONS
 		WARBL* (1)
 		YEL* (1)
 		YELL* (1)
-	GLORY
+	Glory
 		ADMIR* (1)
 		ADMIRABL* (1)
 		ADVENTUR* (1)
